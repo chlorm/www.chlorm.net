@@ -248,11 +248,18 @@
 	    right:0;
 	    bottom:0;
 	}
+	.intro {
+		top:47%;
+		margin:auto;
+		position:absolute;
+		text-align:center;
+		width:100%;
+	}
 	.footer {
 		margin:0px auto;
 		text-align:center;
 		width:100%;
 		padding:0;
-	    bottom:0;
+	    bottom:10px;
 	    position: absolute;
 	}
