@@ -110,8 +110,11 @@
 	}
 	.logo h2 {
 		font-size: 50px;
-		text-align:center;
 	}
+        .logo h2, .logo h3 {
+          text-align:center;
+          margin-bottom:-10px;
+        }
 	.mainMenu {
 		font-family:'rawengulksans',sans-serif !important;
 	    float:left;
